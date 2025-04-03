@@ -1,0 +1,2 @@
+nvcc -o image_filter.exe image_filter.cu -I "C:\opencv\build\include" -L "C:\opencv\build\x64\vc16\lib" -lopencv_world4110 -lcudart
+streamlit run App.py

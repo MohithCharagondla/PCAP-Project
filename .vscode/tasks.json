@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile CUDA",
+            "type": "shell",
+            "command": "nvcc",
+            "args": [
+                "-o", "image_processing.exe",
+                "image_processing.cu",
+                "-I", "C:/opencv/build/include",
+                "-L", "C:/opencv/build/x64/vc16/lib",
+                "-lopencv_world4110"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
