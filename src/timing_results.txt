@@ -1,4 +1,5 @@
-Operation: 5, Intensity: 1, CUDA Time: 5.37322 ms, CPU Time: 27 ms
-Operation: 1, Intensity: 5, CUDA Time: 21.0853 ms, CPU Time: 6489 ms
-Operation: 1, CUDA Time: 23.5642 ms, CPU Time: 8597 ms
-Operation: 1, CUDA Time: 67.095 ms, CPU Time: 48855 ms
+Operation: 1, CUDA Time: 66.8717 ms, CPU Time: 47789 ms
+Operation: 2, CUDA Time: 5.51654 ms, CPU Time: 554 ms
+Operation: 3, CUDA Time: 6.30173 ms, CPU Time: 571 ms
+Operation: 4, CUDA Time: 4.42883 ms, CPU Time: 19 ms
+Operation: 5, CUDA Time: 4.82611 ms, CPU Time: 25 ms
