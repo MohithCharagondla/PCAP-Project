@@ -2,3 +2,4 @@ src\image_filter.exe
 .vscode\
 src\uploads
 input_image.png
+src\image_filterold.cu
